@@ -1,3 +1,4 @@
 .vs
 /DatingAPI/bin
 /DatingAPI/*.db
+/DatingAPI/obj
