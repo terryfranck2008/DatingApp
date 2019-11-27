@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chane\\source\\repos\\DatingAPI\\DatingAPI\\DatingAPI.csproj": {}
+    "C:\\Users\\frltepi\\Source\\Repos\\DatingApp\\DatingAPI\\DatingAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chane\\source\\repos\\DatingAPI\\DatingAPI\\DatingAPI.csproj": {
+    "C:\\Users\\frltepi\\Source\\Repos\\DatingApp\\DatingAPI\\DatingAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chane\\source\\repos\\DatingAPI\\DatingAPI\\DatingAPI.csproj",
+        "projectUniqueName": "C:\\Users\\frltepi\\Source\\Repos\\DatingApp\\DatingAPI\\DatingAPI.csproj",
         "projectName": "DatingAPI",
-        "projectPath": "C:\\Users\\chane\\source\\repos\\DatingAPI\\DatingAPI\\DatingAPI.csproj",
-        "packagesPath": "C:\\Users\\chane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chane\\source\\repos\\DatingAPI\\DatingAPI\\obj\\",
+        "projectPath": "C:\\Users\\frltepi\\Source\\Repos\\DatingApp\\DatingAPI\\DatingAPI.csproj",
+        "packagesPath": "C:\\Users\\frltepi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\frltepi\\Source\\Repos\\DatingApp\\DatingAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\chane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\frltepi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
